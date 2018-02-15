@@ -1,2 +1,2 @@
-# smart-contract
-Ethereum ERC20 smart-contract
+# Smart-Contract
+Divi Project smart contract repo
